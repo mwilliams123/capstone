@@ -1,0 +1,6 @@
+numpy
+sklearn
+pyquery
+twython
+tensorflow
+matplotlib
