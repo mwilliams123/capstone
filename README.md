@@ -13,7 +13,7 @@ Install other dependencies through pip:
 
 ``` pip install -r requirements.txt```
 
-Then, open an run the Jupyter notebook capstone.ipynb with a Python 3 kernel. Launch Jupyter with the command:
+Then, open and run the Jupyter notebook capstone.ipynb with a Python 3 kernel. Launch Jupyter with the command:
 
 ```jupyter notebook```
 
