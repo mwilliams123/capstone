@@ -1,4 +1,4 @@
-# Event Detection and Sumarization through Sports Tweet Analysis
+# Event Detection and Live Sumarization through Sports Tweet Analysis
 This a capstone project by Megan Williams required for completion of a Master's degree.
 
 ## Project Summary
