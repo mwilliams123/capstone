@@ -2,7 +2,7 @@
 This a capstone project by Megan Williams required for completion of a Master's degree.
 
 ## Project Summary
-This project is designed to live-tweet NFL games. We monitor mentions of 'NFL' on Twitter to detect games. Then, we analyze team name mentions and hashtags to extract more information about the game. We use a moving-treshold technique based on the volume of game tweets to detect interesting events. Then, we use an RNN to generate a new tweet characterizing the event.
+This project is designed to live-tweet NFL games. We monitor mentions of 'NFL' on Twitter to detect games. Then, we analyze team name mentions and hashtags to extract more information about the game. We use a moving threshold technique based on the volume of game tweets to detect interesting events. Then, we use a RNN to generate a new tweet characterizing the event.
 
 For more details, read the paper capstone.pdf. 
 
